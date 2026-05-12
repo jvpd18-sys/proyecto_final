@@ -1,0 +1,11 @@
+[
+  {"model": "expenses.categoria", "pk": 1, "fields": {"nombre": "Alimentación", "icono": "utensils", "color_hex": "#f59e0b", "es_predefinida": true}},
+  {"model": "expenses.categoria", "pk": 2, "fields": {"nombre": "Transporte", "icono": "car", "color_hex": "#3b82f6", "es_predefinida": true}},
+  {"model": "expenses.categoria", "pk": 3, "fields": {"nombre": "Alojamiento", "icono": "home", "color_hex": "#8b5cf6", "es_predefinida": true}},
+  {"model": "expenses.categoria", "pk": 4, "fields": {"nombre": "Entretenimiento", "icono": "music", "color_hex": "#ec4899", "es_predefinida": true}},
+  {"model": "expenses.categoria", "pk": 5, "fields": {"nombre": "Servicios", "icono": "zap", "color_hex": "#06b6d4", "es_predefinida": true}},
+  {"model": "expenses.categoria", "pk": 6, "fields": {"nombre": "Salud", "icono": "heart", "color_hex": "#ef4444", "es_predefinida": true}},
+  {"model": "expenses.categoria", "pk": 7, "fields": {"nombre": "Ropa", "icono": "shopping-bag", "color_hex": "#f97316", "es_predefinida": true}},
+  {"model": "expenses.categoria", "pk": 8, "fields": {"nombre": "Educación", "icono": "book-open", "color_hex": "#10b981", "es_predefinida": true}},
+  {"model": "expenses.categoria", "pk": 9, "fields": {"nombre": "Otros", "icono": "tag", "color_hex": "#6b7280", "es_predefinida": true}}
+]
